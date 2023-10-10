@@ -1,2 +1,4 @@
 # Telangana-Visitors-Analysis
-The project gives an analysis of Telangana state among its domestic and foreign visitors from 2016 till 2022. The data has been collected from the Telangana's official data website, preprocessed and cleaned using Jupyter and then visualized using PowerBI. It also gives a detailed insight about its capital city Hyderabad.
+
+This project intends to be a guide to increase Telangana's tourism industry.
+![Page 1](https://github.com/salvi26601/Telangana-Visitors-Analysis/assets/76543682/e640b8d5-7283-448c-8129-c14827ff1eec)
