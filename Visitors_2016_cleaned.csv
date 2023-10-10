@@ -1,0 +1,373 @@
+,district,month,year,domestic_visitors,foreign_visitors
+0,Adilabad,January,2016,792136,2
+1,Adilabad,February,2016,937820,0
+2,Adilabad,March,2016,582946,2
+3,Adilabad,April,2016,341948,0
+4,Adilabad,May,2016,252887,0
+5,Adilabad,June,2016,368237,0
+6,Adilabad,July,2016,447562,4
+7,Adilabad,August,2016,614285,2
+8,Adilabad,September,2016,491279,0
+9,Adilabad,October,2016,94184,0
+10,Adilabad,November,2016,99148,0
+11,Adilabad,December,2016,53125,0
+12,Bhadradri Kothagudem ,January,2016,0,0
+13,Bhadradri Kothagudem ,February,2016,0,0
+14,Bhadradri Kothagudem ,March,2016,0,0
+15,Bhadradri Kothagudem ,April,2016,0,0
+16,Bhadradri Kothagudem ,May,2016,0,0
+17,Bhadradri Kothagudem ,June,2016,0,0
+18,Bhadradri Kothagudem ,July,2016,0,0
+19,Bhadradri Kothagudem ,August,2016,0,0
+20,Bhadradri Kothagudem ,September,2016,0,0
+21,Bhadradri Kothagudem ,October,2016,310133,0
+22,Bhadradri Kothagudem ,November,2016,252127,0
+23,Bhadradri Kothagudem ,December,2016,326770,0
+24,Hyderabad,January,2016,1122510,15865
+25,Hyderabad,February,2016,778748,29646
+26,Hyderabad,March,2016,1017794,13019
+27,Hyderabad,April,2016,1127738,8402
+28,Hyderabad,May,2016,1287181,8522
+29,Hyderabad,June,2016,12032661,10284
+30,Hyderabad,July,2016,1096754,17142
+31,Hyderabad,August,2016,1061137,12842
+32,Hyderabad,September,2016,832987,9397
+33,Hyderabad,October,2016,901960,12808
+34,Hyderabad,November,2016,909733,8084
+35,Hyderabad,December,2016,1225502,17620
+36,Jagtial ,January,2016,0,0
+37,Jagtial ,February,2016,0,0
+38,Jagtial ,March,2016,0,0
+39,Jagtial ,April,2016,0,0
+40,Jagtial ,May,2016,0,0
+41,Jagtial ,June,2016,0,0
+42,Jagtial ,July,2016,0,0
+43,Jagtial ,August,2016,0,0
+44,Jagtial ,September,2016,0,0
+45,Jagtial ,October,2016,201249,0
+46,Jagtial ,November,2016,214534,0
+47,Jagtial ,December,2016,207294,0
+48,Jangaon ,January,2016,0,0
+49,Jangaon ,February,2016,0,0
+50,Jangaon ,March,2016,0,0
+51,Jangaon ,April,2016,0,0
+52,Jangaon ,May,2016,0,0
+53,Jangaon ,June,2016,0,0
+54,Jangaon ,July,2016,0,0
+55,Jangaon ,August,2016,0,0
+56,Jangaon ,September,2016,0,0
+57,Jangaon ,October,2016,14770,0
+58,Jangaon ,November,2016,13210,2
+59,Jangaon ,December,2016,12680,0
+60,Jayashankar Bhoopalpally,January,2016,0,0
+61,Jayashankar Bhoopalpally,February,2016,0,0
+62,Jayashankar Bhoopalpally,March,2016,0,0
+63,Jayashankar Bhoopalpally,April,2016,0,0
+64,Jayashankar Bhoopalpally,May,2016,0,0
+65,Jayashankar Bhoopalpally,June,2016,0,0
+66,Jayashankar Bhoopalpally,July,2016,0,0
+67,Jayashankar Bhoopalpally,August,2016,0,0
+68,Jayashankar Bhoopalpally,September,2016,0,0
+69,Jayashankar Bhoopalpally,October,2016,76360,24
+70,Jayashankar Bhoopalpally,November,2016,81580,22
+71,Jayashankar Bhoopalpally,December,2016,85460,40
+72,Jogulamba Gadwal ,January,2016,0,0
+73,Jogulamba Gadwal ,February,2016,0,0
+74,Jogulamba Gadwal ,March,2016,0,0
+75,Jogulamba Gadwal ,April,2016,0,0
+76,Jogulamba Gadwal ,May,2016,0,0
+77,Jogulamba Gadwal ,June,2016,0,0
+78,Jogulamba Gadwal ,July,2016,0,0
+79,Jogulamba Gadwal ,August,2016,0,0
+80,Jogulamba Gadwal ,September,2016,0,0
+81,Jogulamba Gadwal ,October,2016,152898,13
+82,Jogulamba Gadwal ,November,2016,188170,21
+83,Jogulamba Gadwal ,December,2016,182333,11
+84,Kamareddy ,January,2016,0,0
+85,Kamareddy ,February,2016,0,0
+86,Kamareddy ,March,2016,0,0
+87,Kamareddy ,April,2016,0,0
+88,Kamareddy ,May,2016,0,0
+89,Kamareddy ,June,2016,0,0
+90,Kamareddy ,July,2016,0,0
+91,Kamareddy ,August,2016,0,0
+92,Kamareddy ,September,2016,0,0
+93,Kamareddy ,October,2016,47,0
+94,Kamareddy ,November,2016,38,0
+95,Kamareddy ,December,2016,42,0
+96,Karimnagar ,January,2016,1984442,0
+97,Karimnagar ,February,2016,779960,0
+98,Karimnagar ,March,2016,1018399,0
+99,Karimnagar ,April,2016,956959,0
+100,Karimnagar ,May,2016,1095642,0
+101,Karimnagar ,June,2016,914746,0
+102,Karimnagar ,July,2016,401047,0
+103,Karimnagar ,August,2016,1018399,0
+104,Karimnagar ,September,2016,956959,0
+105,Karimnagar ,October,2016,13675,0
+106,Karimnagar ,November,2016,13350,0
+107,Karimnagar ,December,2016,13890,0
+108,Khammam,January,2016,651827,0
+109,Khammam,February,2016,407533,0
+110,Khammam,March,2016,458527,0
+111,Khammam,April,2016,971622,0
+112,Khammam,May,2016,433994,0
+113,Khammam,June,2016,445862,0
+114,Khammam,July,2016,414963,0
+115,Khammam,August,2016,503654,0
+116,Khammam,September,2016,368437,0
+117,Khammam,October,2016,121575,0
+118,Khammam,November,2016,110634,0
+119,Khammam,December,2016,116403,0
+120,Komaram Bheem Asifabad,January,2016,0,0
+121,Komaram Bheem Asifabad,February,2016,0,0
+122,Komaram Bheem Asifabad,March,2016,0,0
+123,Komaram Bheem Asifabad,April,2016,0,0
+124,Komaram Bheem Asifabad,May,2016,0,0
+125,Komaram Bheem Asifabad,June,2016,0,0
+126,Komaram Bheem Asifabad,July,2016,0,0
+127,Komaram Bheem Asifabad,August,2016,0,0
+128,Komaram Bheem Asifabad,September,2016,0,0
+129,Komaram Bheem Asifabad,October,2016,0,0
+130,Komaram Bheem Asifabad,November,2016,0,0
+131,Komaram Bheem Asifabad,December,2016,0,0
+132,Mahabubabad ,January,2016,0,0
+133,Mahabubabad ,February,2016,0,0
+134,Mahabubabad ,March,2016,0,0
+135,Mahabubabad ,April,2016,0,0
+136,Mahabubabad ,May,2016,0,0
+137,Mahabubabad ,June,2016,0,0
+138,Mahabubabad ,July,2016,0,0
+139,Mahabubabad ,August,2016,0,0
+140,Mahabubabad ,September,2016,0,0
+141,Mahabubabad ,October,2016,13032,0
+142,Mahabubabad ,November,2016,114015,0
+143,Mahabubabad ,December,2016,12955,0
+144,Mahbubnagar,January,2016,577071,123
+145,Mahbubnagar,February,2016,1312068,126
+146,Mahbubnagar,March,2016,1731983,103
+147,Mahbubnagar,April,2016,622432,75
+148,Mahbubnagar,May,2016,571898,58
+149,Mahbubnagar,June,2016,561006,68
+150,Mahbubnagar,July,2016,562322,63
+151,Mahbubnagar,August,2016,1133105,86
+152,Mahbubnagar,September,2016,567712,74
+153,Mahbubnagar,October,2016,198592,37
+154,Mahbubnagar,November,2016,256375,29
+155,Mahbubnagar,December,2016,210202,26
+156,Mancherial,January,2016,0,0
+157,Mancherial,February,2016,0,0
+158,Mancherial,March,2016,0,0
+159,Mancherial,April,2016,0,0
+160,Mancherial,May,2016,0,0
+161,Mancherial,June,2016,0,0
+162,Mancherial,July,2016,0,0
+163,Mancherial,August,2016,0,0
+164,Mancherial,September,2016,0,0
+165,Mancherial,October,2016,3124,0
+166,Mancherial,November,2016,2255,0
+167,Mancherial,December,2016,2423,0
+168,Medak ,January,2016,92600,0
+169,Medak ,February,2016,215000,0
+170,Medak ,March,2016,1318000,0
+171,Medak ,April,2016,300000,0
+172,Medak ,May,2016,198000,0
+173,Medak ,June,2016,166700,0
+174,Medak ,July,2016,153300,0
+175,Medak ,August,2016,216100,0
+176,Medak ,September,2016,132600,0
+177,Medak ,October,2016,15600,0
+178,Medak ,November,2016,132300,0
+179,Medak ,December,2016,523000,0
+180,Medchal ,January,2016,0,0
+181,Medchal ,February,2016,0,0
+182,Medchal ,March,2016,0,0
+183,Medchal ,April,2016,0,0
+184,Medchal ,May,2016,0,0
+185,Medchal ,June,2016,0,0
+186,Medchal ,July,2016,0,0
+187,Medchal ,August,2016,0,0
+188,Medchal ,September,2016,0,0
+189,Medchal ,October,2016,0,0
+190,Medchal ,November,2016,0,0
+191,Medchal ,December,2016,0,0
+192,Nagarkurnool ,January,2016,0,0
+193,Nagarkurnool ,February,2016,0,0
+194,Nagarkurnool ,March,2016,0,0
+195,Nagarkurnool ,April,2016,0,0
+196,Nagarkurnool ,May,2016,0,0
+197,Nagarkurnool ,June,2016,0,0
+198,Nagarkurnool ,July,2016,0,0
+199,Nagarkurnool ,August,2016,0,0
+200,Nagarkurnool ,September,2016,0,0
+201,Nagarkurnool ,October,2016,201050,8
+202,Nagarkurnool ,November,2016,188786,11
+203,Nagarkurnool ,December,2016,198637,10
+204,Nalgonda,January,2016,566515,0
+205,Nalgonda,February,2016,539467,0
+206,Nalgonda,March,2016,619462,0
+207,Nalgonda,April,2016,601253,0
+208,Nalgonda,May,2016,628872,0
+209,Nalgonda,June,2016,551239,0
+210,Nalgonda,July,2016,582820,0
+211,Nalgonda,August,2016,988102,0
+212,Nalgonda,September,2016,742402,0
+213,Nalgonda,October,2016,3508,0
+214,Nalgonda,November,2016,21046,0
+215,Nalgonda,December,2016,13775,0
+216,Nirmal,January,2016,0,0
+217,Nirmal,February,2016,0,0
+218,Nirmal,March,2016,0,0
+219,Nirmal,April,2016,0,0
+220,Nirmal,May,2016,0,0
+221,Nirmal,June,2016,0,0
+222,Nirmal,July,2016,0,0
+223,Nirmal,August,2016,0,0
+224,Nirmal,September,2016,0,0
+225,Nirmal,October,2016,475955,0
+226,Nirmal,November,2016,201388,0
+227,Nirmal,December,2016,239267,0
+228,Nizamabad,January,2016,576,0
+229,Nizamabad,February,2016,869,0
+230,Nizamabad,March,2016,408,0
+231,Nizamabad,April,2016,476,0
+232,Nizamabad,May,2016,554,0
+233,Nizamabad,June,2016,367,0
+234,Nizamabad,July,2016,644,0
+235,Nizamabad,August,2016,589,0
+236,Nizamabad,September,2016,553,0
+237,Nizamabad,October,2016,434,0
+238,Nizamabad,November,2016,617,0
+239,Nizamabad,December,2016,355,0
+240,Peddapalli,January,2016,0,0
+241,Peddapalli,February,2016,0,0
+242,Peddapalli,March,2016,0,0
+243,Peddapalli,April,2016,0,0
+244,Peddapalli,May,2016,0,0
+245,Peddapalli,June,2016,0,0
+246,Peddapalli,July,2016,0,0
+247,Peddapalli,August,2016,0,0
+248,Peddapalli,September,2016,0,0
+249,Peddapalli,October,2016,950,0
+250,Peddapalli,November,2016,1145,0
+251,Peddapalli,December,2016,1149,0
+252,Rajanna Sircilla ,January,2016,0,0
+253,Rajanna Sircilla ,February,2016,0,0
+254,Rajanna Sircilla ,March,2016,0,0
+255,Rajanna Sircilla ,April,2016,0,0
+256,Rajanna Sircilla ,May,2016,0,0
+257,Rajanna Sircilla ,June,2016,0,0
+258,Rajanna Sircilla ,July,2016,0,0
+259,Rajanna Sircilla ,August,2016,0,0
+260,Rajanna Sircilla ,September,2016,0,0
+261,Rajanna Sircilla ,October,2016,534484,0
+262,Rajanna Sircilla ,November,2016,864077,0
+263,Rajanna Sircilla ,December,2016,778240,0
+264,Ranga Reddy,January,2016,0,0
+265,Ranga Reddy,February,2016,0,0
+266,Ranga Reddy,March,2016,0,0
+267,Ranga Reddy,April,2016,0,0
+268,Ranga Reddy,May,2016,0,0
+269,Ranga Reddy,June,2016,0,0
+270,Ranga Reddy,July,2016,0,0
+271,Ranga Reddy,August,2016,0,0
+272,Ranga Reddy,September,2016,0,0
+273,Ranga Reddy,October,2016,0,0
+274,Ranga Reddy,November,2016,0,0
+275,Ranga Reddy,December,2016,0,0
+276,Sangareddy ,January,2016,0,0
+277,Sangareddy ,February,2016,0,0
+278,Sangareddy ,March,2016,0,0
+279,Sangareddy ,April,2016,0,0
+280,Sangareddy ,May,2016,0,0
+281,Sangareddy ,June,2016,0,0
+282,Sangareddy ,July,2016,0,0
+283,Sangareddy ,August,2016,0,0
+284,Sangareddy ,September,2016,0,0
+285,Sangareddy ,October,2016,274000,0
+286,Sangareddy ,November,2016,349000,0
+287,Sangareddy ,December,2016,155000,0
+288,Siddipet,January,2016,0,0
+289,Siddipet,February,2016,0,0
+290,Siddipet,March,2016,0,0
+291,Siddipet,April,2016,0,0
+292,Siddipet,May,2016,0,0
+293,Siddipet,June,2016,0,0
+294,Siddipet,July,2016,0,0
+295,Siddipet,August,2016,0,0
+296,Siddipet,September,2016,0,0
+297,Siddipet,October,2016,123500,0
+298,Siddipet,November,2016,154400,0
+299,Siddipet,December,2016,80500,0
+300,Suryapet,January,2016,0,0
+301,Suryapet,February,2016,0,0
+302,Suryapet,March,2016,0,0
+303,Suryapet,April,2016,0,0
+304,Suryapet,May,2016,0,0
+305,Suryapet,June,2016,0,0
+306,Suryapet,July,2016,0,0
+307,Suryapet,August,2016,0,0
+308,Suryapet,September,2016,0,0
+309,Suryapet,October,2016,0,0
+310,Suryapet,November,2016,0,0
+311,Suryapet,December,2016,0,0
+312,Vikarabad,January,2016,0,0
+313,Vikarabad,February,2016,0,0
+314,Vikarabad,March,2016,0,0
+315,Vikarabad,April,2016,0,0
+316,Vikarabad,May,2016,0,0
+317,Vikarabad,June,2016,0,0
+318,Vikarabad,July,2016,0,0
+319,Vikarabad,August,2016,0,0
+320,Vikarabad,September,2016,0,0
+321,Vikarabad,October,2016,0,0
+322,Vikarabad,November,2016,0,0
+323,Vikarabad,December,2016,0,0
+324,Wanaparthy ,January,2016,0,0
+325,Wanaparthy ,February,2016,0,0
+326,Wanaparthy ,March,2016,0,0
+327,Wanaparthy ,April,2016,0,0
+328,Wanaparthy ,May,2016,0,0
+329,Wanaparthy ,June,2016,0,0
+330,Wanaparthy ,July,2016,0,0
+331,Wanaparthy ,August,2016,0,0
+332,Wanaparthy ,September,2016,0,0
+333,Wanaparthy ,October,2016,21234,0
+334,Wanaparthy ,November,2016,18348,0
+335,Wanaparthy ,December,2016,20556,0
+336,Warangal (Rural),January,2016,0,0
+337,Warangal (Rural),February,2016,0,0
+338,Warangal (Rural),March,2016,0,0
+339,Warangal (Rural),April,2016,0,0
+340,Warangal (Rural),May,2016,0,0
+341,Warangal (Rural),June,2016,0,0
+342,Warangal (Rural),July,2016,0,0
+343,Warangal (Rural),August,2016,0,0
+344,Warangal (Rural),September,2016,0,0
+345,Warangal (Rural),October,2016,8200,0
+346,Warangal (Rural),November,2016,6050,0
+347,Warangal (Rural),December,2016,5150,0
+348,Warangal (Urban),January,2016,1985815,459
+349,Warangal (Urban),February,2016,20703778,391
+350,Warangal (Urban),March,2016,568397,230
+351,Warangal (Urban),April,2016,317643,39
+352,Warangal (Urban),May,2016,373788,82
+353,Warangal (Urban),June,2016,365332,88
+354,Warangal (Urban),July,2016,340320,53
+355,Warangal (Urban),August,2016,368755,102
+356,Warangal (Urban),September,2016,379210,118
+357,Warangal (Urban),October,2016,128247,108
+358,Warangal (Urban),November,2016,129250,97
+359,Warangal (Urban),December,2016,127500,132
+360,Yadadri Bhongir,January,2016,0,0
+361,Yadadri Bhongir,February,2016,0,0
+362,Yadadri Bhongir,March,2016,0,0
+363,Yadadri Bhongir,April,2016,0,0
+364,Yadadri Bhongir,May,2016,0,0
+365,Yadadri Bhongir,June,2016,0,0
+366,Yadadri Bhongir,July,2016,0,0
+367,Yadadri Bhongir,August,2016,0,0
+368,Yadadri Bhongir,September,2016,0,0
+369,Yadadri Bhongir,October,2016,584800,0
+370,Yadadri Bhongir,November,2016,681000,0
+371,Yadadri Bhongir,December,2016,462800,0

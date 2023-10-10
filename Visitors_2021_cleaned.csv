@@ -1,0 +1,349 @@
+,district,month,year,domestic_visitors,foreign_visitors
+0,Adilabad,January,2021,18203,0
+1,Adilabad,February,2021,271255,0
+2,Adilabad,March,2021,15907,0
+3,Adilabad,April,2021,6955,0
+4,Adilabad,May,2021,1191,0
+5,Adilabad,June,2021,3407,0
+6,Adilabad,July,2021,26885,0
+7,Adilabad,August,2021,25338,0
+8,Adilabad,September,2021,17672,0
+9,Adilabad,October,2021,16095,0
+10,Adilabad,November,2021,73753,0
+11,Adilabad,December,2021,18484,0
+12,Bhadradri Kothagudem,January,2021,199340,0
+13,Bhadradri Kothagudem,February,2021,163761,0
+14,Bhadradri Kothagudem,March,2021,83871,0
+15,Bhadradri Kothagudem,April,2021,38456,0
+16,Bhadradri Kothagudem,May,2021,9329,0
+17,Bhadradri Kothagudem,June,2021,20090,0
+18,Bhadradri Kothagudem,July,2021,63082,0
+19,Bhadradri Kothagudem,August,2021,70386,0
+20,Bhadradri Kothagudem,September,2021,88451,0
+21,Bhadradri Kothagudem,October,2021,104063,0
+22,Bhadradri Kothagudem,November,2021,84828,0
+23,Bhadradri Kothagudem,December,2021,105685,0
+24,Hanumakonda,January,2021,90800,0
+25,Hanumakonda,February,2021,89900,0
+26,Hanumakonda,March,2021,91970,80
+27,Hanumakonda,April,2021,89430,5
+28,Hanumakonda,May,2021,14510,0
+29,Hanumakonda,June,2021,10050,0
+30,Hanumakonda,July,2021,40670,0
+31,Hanumakonda,August,2021,39220,3
+32,Hanumakonda,September,2021,42340,5
+33,Hanumakonda,October,2021,38650,5
+34,Hanumakonda,November,2021,37910,8
+35,Hanumakonda,December,2021,38125,6
+36,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",January,2021,828057,758
+37,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",February,2021,657955,814
+38,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",March,2021,589239,294
+39,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",April,2021,216683,90
+40,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",May,2021,50064,158
+41,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",June,2021,205368,79
+42,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",July,2021,384455,131
+43,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",August,2021,603815,169
+44,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",September,2021,533745,343
+45,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",October,2021,743442,931
+46,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",November,2021,938466,758
+47,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",December,2021,1042809,1220
+48,Jagtial,January,2021,154626,0
+49,Jagtial,February,2021,155602,0
+50,Jagtial,March,2021,303738,0
+51,Jagtial,April,2021,74401,0
+52,Jagtial,May,2021,2555,0
+53,Jagtial,June,2021,43196,0
+54,Jagtial,July,2021,187220,0
+55,Jagtial,August,2021,191483,0
+56,Jagtial,September,2021,169440,0
+57,Jagtial,October,2021,172570,0
+58,Jagtial,November,2021,260498,0
+59,Jagtial,December,2021,255232,0
+60,Jangaon,January,2021,11545,0
+61,Jangaon,February,2021,11440,0
+62,Jangaon,March,2021,11950,0
+63,Jangaon,April,2021,10340,0
+64,Jangaon,May,2021,3275,0
+65,Jangaon,June,2021,2470,0
+66,Jangaon,July,2021,6580,0
+67,Jangaon,August,2021,7085,0
+68,Jangaon,September,2021,7180,0
+69,Jangaon,October,2021,10360,0
+70,Jangaon,November,2021,6140,0
+71,Jangaon,December,2021,6140,0
+72,Jayashankar Bhoopalpally,January,2021,15700,0
+73,Jayashankar Bhoopalpally,February,2021,15800,0
+74,Jayashankar Bhoopalpally,March,2021,16400,0
+75,Jayashankar Bhoopalpally,April,2021,14900,0
+76,Jayashankar Bhoopalpally,May,2021,5600,0
+77,Jayashankar Bhoopalpally,June,2021,4400,0
+78,Jayashankar Bhoopalpally,July,2021,9000,0
+79,Jayashankar Bhoopalpally,August,2021,10500,0
+80,Jayashankar Bhoopalpally,September,2021,10700,0
+81,Jayashankar Bhoopalpally,October,2021,11000,0
+82,Jayashankar Bhoopalpally,November,2021,10500,0
+83,Jayashankar Bhoopalpally,December,2021,10900,0
+84,Jogulamba Gadwal,January,2021,169350,0
+85,Jogulamba Gadwal,February,2021,400254,0
+86,Jogulamba Gadwal,March,2021,520014,0
+87,Jogulamba Gadwal,April,2021,248566,0
+88,Jogulamba Gadwal,May,2021,990,0
+89,Jogulamba Gadwal,June,2021,39894,0
+90,Jogulamba Gadwal,July,2021,278769,0
+91,Jogulamba Gadwal,August,2021,174508,0
+92,Jogulamba Gadwal,September,2021,154900,0
+93,Jogulamba Gadwal,October,2021,185052,0
+94,Jogulamba Gadwal,November,2021,220734,0
+95,Jogulamba Gadwal,December,2021,229051,0
+96,Kamareddy,January,2021,43,0
+97,Kamareddy,February,2021,40,0
+98,Kamareddy,March,2021,49,0
+99,Kamareddy,April,2021,26,0
+100,Kamareddy,May,2021,0,0
+101,Kamareddy,June,2021,24,0
+102,Kamareddy,July,2021,41,0
+103,Kamareddy,August,2021,48,0
+104,Kamareddy,September,2021,33,0
+105,Kamareddy,October,2021,40,0
+106,Kamareddy,November,2021,42,0
+107,Kamareddy,December,2021,45,0
+108,Karimnagar,January,2021,5965,0
+109,Karimnagar,February,2021,5670,0
+110,Karimnagar,March,2021,6800,0
+111,Karimnagar,April,2021,1924,0
+112,Karimnagar,May,2021,601,0
+113,Karimnagar,June,2021,450,0
+114,Karimnagar,July,2021,4750,0
+115,Karimnagar,August,2021,6320,0
+116,Karimnagar,September,2021,5475,0
+117,Karimnagar,October,2021,4410,0
+118,Karimnagar,November,2021,3525,0
+119,Karimnagar,December,2021,3750,0
+120,Khammam,January,2021,81711,0
+121,Khammam,February,2021,59065,0
+122,Khammam,March,2021,47862,0
+123,Khammam,April,2021,30882,0
+124,Khammam,May,2021,11240,0
+125,Khammam,June,2021,12443,0
+126,Khammam,July,2021,19400,0
+127,Khammam,August,2021,18781,0
+128,Khammam,September,2021,29256,0
+129,Khammam,October,2021,36965,0
+130,Khammam,November,2021,45533,0
+131,Khammam,December,2021,53316,0
+132,Komaram Bheem Asifabad,January,2021,410,0
+133,Komaram Bheem Asifabad,February,2021,466,0
+134,Komaram Bheem Asifabad,March,2021,491,0
+135,Komaram Bheem Asifabad,April,2021,349,0
+136,Komaram Bheem Asifabad,May,2021,88,0
+137,Komaram Bheem Asifabad,June,2021,128,0
+138,Komaram Bheem Asifabad,July,2021,154,0
+139,Komaram Bheem Asifabad,August,2021,175,0
+140,Komaram Bheem Asifabad,September,2021,176,0
+141,Komaram Bheem Asifabad,October,2021,21030,0
+142,Komaram Bheem Asifabad,November,2021,371,0
+143,Komaram Bheem Asifabad,December,2021,587,0
+144,Mahabubabad,January,2021,3060,0
+145,Mahabubabad,February,2021,3155,0
+146,Mahabubabad,March,2021,3320,0
+147,Mahabubabad,April,2021,3240,0
+148,Mahabubabad,May,2021,940,0
+149,Mahabubabad,June,2021,880,0
+150,Mahabubabad,July,2021,1970,0
+151,Mahabubabad,August,2021,3480,0
+152,Mahabubabad,September,2021,3420,0
+153,Mahabubabad,October,2021,3505,0
+154,Mahabubabad,November,2021,3470,0
+155,Mahabubabad,December,2021,3480,0
+156,Mahbubnagar,January,2021,112443,0
+157,Mahbubnagar,February,2021,653029,0
+158,Mahbubnagar,March,2021,375235,0
+159,Mahbubnagar,April,2021,270751,0
+160,Mahbubnagar,May,2021,5264,0
+161,Mahbubnagar,June,2021,32923,0
+162,Mahbubnagar,July,2021,300593,0
+163,Mahbubnagar,August,2021,299804,0
+164,Mahbubnagar,September,2021,250520,0
+165,Mahbubnagar,October,2021,208937,0
+166,Mahbubnagar,November,2021,675277,0
+167,Mahbubnagar,December,2021,205813,0
+168,Mancherial,January,2021,14998,0
+169,Mancherial,February,2021,12438,0
+170,Mancherial,March,2021,7304,0
+171,Mancherial,April,2021,6000,0
+172,Mancherial,May,2021,1466,0
+173,Mancherial,June,2021,1503,0
+174,Mancherial,July,2021,4134,0
+175,Mancherial,August,2021,7294,0
+176,Mancherial,September,2021,5668,0
+177,Mancherial,October,2021,5130,0
+178,Mancherial,November,2021,5988,0
+179,Mancherial,December,2021,9372,0
+180,Medak,January,2021,48000,0
+181,Medak,February,2021,44000,0
+182,Medak,March,2021,49000,0
+183,Medak,April,2021,39000,0
+184,Medak,May,2021,4000,0
+185,Medak,June,2021,15000,0
+186,Medak,July,2021,16000,0
+187,Medak,August,2021,33500,0
+188,Medak,September,2021,15500,0
+189,Medak,October,2021,17500,0
+190,Medak,November,2021,20000,0
+191,Medak,December,2021,16350,0
+192,Mulugu,January,2021,61800,0
+193,Mulugu,February,2021,62400,0
+194,Mulugu,March,2021,65550,15
+195,Mulugu,April,2021,65650,0
+196,Mulugu,May,2021,19850,0
+197,Mulugu,June,2021,19850,0
+198,Mulugu,July,2021,36800,0
+199,Mulugu,August,2021,44050,8
+200,Mulugu,September,2021,47055,8
+201,Mulugu,October,2021,41000,10
+202,Mulugu,November,2021,51060,9
+203,Mulugu,December,2021,45550,10
+204,Nagarkurnool,January,2021,88188,0
+205,Nagarkurnool,February,2021,84801,0
+206,Nagarkurnool,March,2021,82629,0
+207,Nagarkurnool,April,2021,85938,0
+208,Nagarkurnool,May,2021,900,0
+209,Nagarkurnool,June,2021,31800,0
+210,Nagarkurnool,July,2021,114690,0
+211,Nagarkurnool,August,2021,123210,0
+212,Nagarkurnool,September,2021,104510,0
+213,Nagarkurnool,October,2021,91559,0
+214,Nagarkurnool,November,2021,117740,0
+215,Nagarkurnool,December,2021,111530,0
+216,Nalgonda & Suryapet,January,2021,9097,0
+217,Nalgonda & Suryapet,February,2021,6126,0
+218,Nalgonda & Suryapet,March,2021,5729,0
+219,Nalgonda & Suryapet,April,2021,1033,0
+220,Nalgonda & Suryapet,May,2021,148,0
+221,Nalgonda & Suryapet,June,2021,1044,0
+222,Nalgonda & Suryapet,July,2021,6744,0
+223,Nalgonda & Suryapet,August,2021,7852,0
+224,Nalgonda & Suryapet,September,2021,21650,0
+225,Nalgonda & Suryapet,October,2021,14431,0
+226,Nalgonda & Suryapet,November,2021,7684,0
+227,Nalgonda & Suryapet,December,2021,12528,0
+228,Narayanpet,January,2021,45720,0
+229,Narayanpet,February,2021,34377,0
+230,Narayanpet,March,2021,34327,0
+231,Narayanpet,April,2021,24289,0
+232,Narayanpet,May,2021,328,0
+233,Narayanpet,June,2021,6010,0
+234,Narayanpet,July,2021,26950,0
+235,Narayanpet,August,2021,24200,0
+236,Narayanpet,September,2021,19500,0
+237,Narayanpet,October,2021,23700,0
+238,Narayanpet,November,2021,27400,0
+239,Narayanpet,December,2021,24250,0
+240,Nirmal,January,2021,154786,0
+241,Nirmal,February,2021,225686,0
+242,Nirmal,March,2021,205287,0
+243,Nirmal,April,2021,125395,0
+244,Nirmal,May,2021,25969,0
+245,Nirmal,June,2021,7048,0
+246,Nirmal,July,2021,125523,0
+247,Nirmal,August,2021,173301,0
+248,Nirmal,September,2021,225421,0
+249,Nirmal,October,2021,265203,0
+250,Nirmal,November,2021,228200,0
+251,Nirmal,December,2021,195660,0
+252,Nizamabad,January,2021,9450,0
+253,Nizamabad,February,2021,50500,0
+254,Nizamabad,March,2021,61080,0
+255,Nizamabad,April,2021,30430,0
+256,Nizamabad,May,2021,0,0
+257,Nizamabad,June,2021,2020,0
+258,Nizamabad,July,2021,14050,0
+259,Nizamabad,August,2021,19580,0
+260,Nizamabad,September,2021,12580,0
+261,Nizamabad,October,2021,13600,0
+262,Nizamabad,November,2021,19090,0
+263,Nizamabad,December,2021,10120,0
+264,Peddapalli,January,2021,1150,0
+265,Peddapalli,February,2021,1245,0
+266,Peddapalli,March,2021,2610,0
+267,Peddapalli,April,2021,3405,0
+268,Peddapalli,May,2021,355,0
+269,Peddapalli,June,2021,420,0
+270,Peddapalli,July,2021,550,0
+271,Peddapalli,August,2021,779,0
+272,Peddapalli,September,2021,660,0
+273,Peddapalli,October,2021,650,0
+274,Peddapalli,November,2021,1630,0
+275,Peddapalli,December,2021,1840,0
+276,Rajanna Sircilla,January,2021,656423,0
+277,Rajanna Sircilla,February,2021,571526,0
+278,Rajanna Sircilla,March,2021,868764,0
+279,Rajanna Sircilla,April,2021,198252,0
+280,Rajanna Sircilla,May,2021,23978,0
+281,Rajanna Sircilla,June,2021,125913,0
+282,Rajanna Sircilla,July,2021,290935,0
+283,Rajanna Sircilla,August,2021,518772,0
+284,Rajanna Sircilla,September,2021,388599,0
+285,Rajanna Sircilla,October,2021,355757,0
+286,Rajanna Sircilla,November,2021,567535,0
+287,Rajanna Sircilla,December,2021,606628,0
+288,Sangareddy,January,2021,112500,0
+289,Sangareddy,February,2021,103200,0
+290,Sangareddy,March,2021,274500,0
+291,Sangareddy,April,2021,117300,0
+292,Sangareddy,May,2021,15000,0
+293,Sangareddy,June,2021,26500,0
+294,Sangareddy,July,2021,33000,0
+295,Sangareddy,August,2021,64900,0
+296,Sangareddy,September,2021,47700,0
+297,Sangareddy,October,2021,50000,0
+298,Sangareddy,November,2021,56150,0
+299,Sangareddy,December,2021,38750,0
+300,Siddipet,January,2021,173749,0
+301,Siddipet,February,2021,107247,0
+302,Siddipet,March,2021,70337,0
+303,Siddipet,April,2021,61534,0
+304,Siddipet,May,2021,9000,0
+305,Siddipet,June,2021,37700,0
+306,Siddipet,July,2021,37000,0
+307,Siddipet,August,2021,70000,0
+308,Siddipet,September,2021,59000,0
+309,Siddipet,October,2021,90000,0
+310,Siddipet,November,2021,93500,0
+311,Siddipet,December,2021,90350,0
+312,Wanaparthy,January,2021,22482,0
+313,Wanaparthy,February,2021,22524,0
+314,Wanaparthy,March,2021,19672,0
+315,Wanaparthy,April,2021,25212,0
+316,Wanaparthy,May,2021,295,0
+317,Wanaparthy,June,2021,600,0
+318,Wanaparthy,July,2021,29300,0
+319,Wanaparthy,August,2021,33300,0
+320,Wanaparthy,September,2021,22800,0
+321,Wanaparthy,October,2021,23700,0
+322,Wanaparthy,November,2021,29330,0
+323,Wanaparthy,December,2021,28100,0
+324,Warangal,January,2021,7450,0
+325,Warangal,February,2021,7470,0
+326,Warangal,March,2021,7500,0
+327,Warangal,April,2021,7510,0
+328,Warangal,May,2021,560,0
+329,Warangal,June,2021,550,0
+330,Warangal,July,2021,3400,0
+331,Warangal,August,2021,5610,0
+332,Warangal,September,2021,5610,0
+333,Warangal,October,2021,5820,0
+334,Warangal,November,2021,6230,0
+335,Warangal,December,2021,5690,0
+336,Yadadri Bhongir,January,2021,281131,0
+337,Yadadri Bhongir,February,2021,265238,0
+338,Yadadri Bhongir,March,2021,261920,0
+339,Yadadri Bhongir,April,2021,621,0
+340,Yadadri Bhongir,May,2021,275,0
+341,Yadadri Bhongir,June,2021,153020,0
+342,Yadadri Bhongir,July,2021,312343,0
+343,Yadadri Bhongir,August,2021,269850,0
+344,Yadadri Bhongir,September,2021,169532,0
+345,Yadadri Bhongir,October,2021,170613,0
+346,Yadadri Bhongir,November,2021,242245,0
+347,Yadadri Bhongir,December,2021,231306,0
